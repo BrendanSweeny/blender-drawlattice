@@ -3,9 +3,9 @@ Blender-DrawLattice
 
 A crude blender script that renders a single-layer of close-packed UV spheres
 
-The motivation behind this Blender script is the lack of readily available tools to create accurate representations of crystalline surfaces in Blender for the modeling of surface catalytic reactions. Current methods for modeling crystalline surfaces in blender include use of a third-party program to export a structure to be imported into Blender via an add-on.
+The motivation behind this Blender script is the lack of readily available tools to create accurate representations of crystalline surfaces in Blender for the modeling of surface feactures, catalytic reactions, etc. in journals and presentations. Current methods for modeling crystalline surfaces in blender include use of a third-party program to export a structure (e.g. a .pdb file) to be imported into Blender via an add-on.
 
-The goal of this project is to create a series of scripts that render basic lattice structures (fcc, hcp, etc.)
+The goal of this project is to create a series of scripts that render basic lattice structures (perovskite, fcc, hcp, etc.)
 
 Currently, this script renders a single-layer close-packed surface of one or two differently sized atoms.
 

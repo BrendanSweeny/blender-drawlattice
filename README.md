@@ -22,4 +22,4 @@ How to Use
 Example
 =======
 
-![](/BrendanSweeny/path/to/img.jpg?raw=true "Optional Title")
+![](https://github.com/BrendanSweeny/blender-drawlattice/blob/master/SrTiO3example.png?raw=true "6x6x2 SrTiO3 Slab")

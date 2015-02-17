@@ -13,11 +13,11 @@ How to Use
 ==========
 
 1. Copy the contents of drawunitcell.py into the Blender text editor.
-2. Modify the atom dictionary to reflect the repeating atoms of the unit cell of the material to be rendered "draw_lattice(atom1, atom2, total)"
-3. Modify xCellLength and other unit cell dimensions relative to the atomic radii in the atom dictionary to achieve a close-packed lattice
-4. Specify the dimensions of the lattice (in number of unit cells) for each edge by modifying "draw_lattice(1, 1, 1)"
+2. Modify the atom dictionary to reflect the repeating atoms of the unit cell of the material to be rendered.
+3. Modify xCellLength and other unit cell dimensions relative to the atomic radii in the atom dictionary to achieve a close-packed lattice.
+4. Specify the dimensions of the lattice (in number of unit cells) for each edge by modifying "draw_lattice(1, 1, 1)".
   NOTE: It is highly recommended to start with 1x1x1 then 2x2x2 to check dimensions and gradually build up as rendering can be resource intensive.
-3. Run Script
+3. Run Script.
 
 Example
 =======
